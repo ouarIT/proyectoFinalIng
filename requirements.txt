@@ -1,0 +1,6 @@
+django
+opencv-python
+mediapipe
+MySQL
+fpdf
+requests
